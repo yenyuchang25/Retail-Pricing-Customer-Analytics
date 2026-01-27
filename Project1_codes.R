@@ -1,28 +1,3 @@
----
-title: "MSIN0094 First Assignment Answer Sheet"
-colorlinks: true
-code-line-numbers: true
-format:
-  docx: 
-    number-sections: true
-    toc: false
-    number-depth: 2
-    fontsize: 10pt
-    linestretch: 1.5
-knitr:
-  opts_chunk:
-    echo: true
-    warning: true
-    message: true
-    error: true
-editor_options: 
-  chunk_output_type: inline
----
-
-Candidate Number: VSXB6
-
-Self-reported word count: XXX words
-
 # Market Analysis
 
 1.  \(1\) Conduct a situation analysis for Tom's new bubble tea shop. Discuss what each C is about in general terms, then further discuss each C in the context of bubble tea business.
@@ -407,5 +382,6 @@ In conclusion, by calculating and applying CLV in customer relationship manageme
 2.	Alviansyah, Anca ,Andi sabrin, (2025), The Impact of Search Engine Marketing Strategies on Small Business Growth in the Digital Era. Faculty of Economic and Business, Universitas Muhammadiyah Palopo
 3.	Katherine C. Henderson, Nikita G. Kute, Lucy Popova, David L. Ashley, Claire A. Spears, Victoria Churchill, Scott R. Weaver, Terry F. Pechacek, Jidong H, (2024), Content Analysis of IQOS Direct Mail and Email Marketing in the US
 4.	Albert Valenti, Shuba Srinivasan, Gokhan Yildirim, Koen Pauwels, (2023), Direct Mail to Prospects and Email to Current Customers? Modeling and Field testing Multichannel Marketing
+
 
 
