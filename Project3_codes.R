@@ -1,34 +1,4 @@
----
-title: "MSIN0094 Third Assignment"
-subtitle: "Due Friday 10am, Dec 13, 2024"
-colorlinks: true
-code-line-numbers: true
-format:
-  docx: 
-    number-sections: true
-    toc: false
-    number-depth: 2
-    fontsize: 10pt
-    linestretch: 1.5
-knitr:
-  opts_chunk:
-    echo: true
-    warning: true
-    message: true
-    error: true
-editor_options: 
-  chunk_output_type: inline
-editor: 
-  markdown: 
-    wrap: sentence
----
-
-Candidate number:VSXB6
-
-Word count:1986
-
 ```{r}
-#| echo: false
 # load the dataset by running this code block.
 pacman::p_load(dplyr,modelsummary,fixest)
 
@@ -456,3 +426,4 @@ $$
 
 where X includes price, promotion, advertising, product category, and time controls.
 The coefficient β measures the causal effect of moving from below 4.5 stars to above 4.5 stars on sales.
+
