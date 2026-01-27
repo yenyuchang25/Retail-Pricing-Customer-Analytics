@@ -1,39 +1,3 @@
----
-title: "MSIN0094 Second Assignment Answer Sheet"
-colorlinks: true
-code-line-numbers: true
-format:
-  docx: 
-    number-sections: true
-    toc: false
-    number-depth: 2
-    fontsize: 10pt
-    linestretch: 1.5
-knitr:
-  opts_chunk:
-    echo: true
-    warning: true
-    message: true
-    error: true
-editor_options: 
-  chunk_output_type: inline
----
-
-Anonymous Candidate Number: VSXB6
-
-Self-reported word count: 1,482 words
-
-```{r}
-#| eval: true
-#| echo: false
-#| warning: false
-# load necessary functions
-pacman::p_load(dplyr,broom)
-
-# please complete the read.csv() below to load the data
-data_full <- read.csv("C:\\Users\\cindy\\Documents\\Cindy\\UCL Modules\\Marketing Analytics (R)\\Second Assignment Files-20251104\\data_amazon.csv")
-```
-
 # Break-Even Response Rate (16pts)
 
 ***Question 1.*** Compute the break-even response rate for Tom's targeting campaign based on the cost information given and assign it into a variable named `breakeven_response_rate`. Explain the role of break-even response rate in the focal targeted marketing campaign. (**7 pt**)
@@ -670,3 +634,4 @@ This case reflects the bias-variance tradeoff. Although the random forest model 
 ### Reference
 
 -   Reference 1: UC Business Analytics R Programming Guide, University of Cincinnati
+
