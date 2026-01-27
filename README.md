@@ -1,6 +1,4 @@
 # Retail-Pricing-Customer-Analytics
-Retail Pricing &amp; Customer Analytics using R
-
 ## Overview
 This repository consolidates 3 end-to-end marketing analytics projects completed as part of the MSc Business Analytics coursework. Together, they demonstrate my ability to translate business problems into data-driven decisions, combining marketing theory, statistical analysis, and programming (R).
 
