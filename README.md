@@ -28,7 +28,7 @@ Evaluating customer acquisition strategies and customer profitability for a new 
 6. Assessed the financial impact of introducing a loyalty programme
 
 ### Outcome
-Provided clear, quantitative recommendations on which customer segments to target, which channels to invest in, and whether loyalty programmes create incremental value.
+The results showed that foodie customers have significantly higher CLV than non-foodies, SEM is the most cost-effective acquisition channel, and loyalty programmes increase overall customer value, especially for foodie customers.
 
 ---
 ## 📬 Project 2: Segmentation, Targeting & Predictive Modelling for Marketing ROI
