@@ -54,7 +54,7 @@ Optimising targeted marketing decisions using RFM analysis, clustering, and supe
 5. Compared ROI across segmentation approaches (RFM vs. K‑means vs. Decision Tree)
 
 ### Outcome
-Demonstrated that model‑driven targeting (decision trees) can significantly outperform heuristic segmentation methods in terms of marketing ROI and efficiency.
+Demonstrated that model‑driven targeting (decision trees) can significantly outperform heuristic segmentation methods (RFM segmentation, K-means clustering) in terms of marketing ROI and efficiency.
 
 ---
 ## 📈 Project 3: Pricing Analytics, Causal Inference & Experiment Design
