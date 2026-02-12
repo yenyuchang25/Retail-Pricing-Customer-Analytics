@@ -80,7 +80,9 @@ Understanding the causal impact of price and marketing actions on sales, and des
 5. Designed a large‑scale A/B/N experiment, including randomisation, power analysis, and evaluation strategy
 
 ### Outcome
-Showed how naïve correlations can be misleading, and how causal inference techniques lead to fundamentally different — and more reliable — business decisions.
+OLS suggested that higher prices were associated with higher sales, implying that raising prices could increase demand.
+After correcting for endogeneity using instrumental variables, the estimated price effect became negative and statistically significant, showing that price increases actually reduce sales.
+This led to a fundamentally different pricing recommendation — avoid price increases and focus on targeted discounting to drive demand.
 
 ---
 
